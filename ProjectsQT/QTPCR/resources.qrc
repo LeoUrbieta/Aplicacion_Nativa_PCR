@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>flowRoot8858.png</file>
+	<file>flowRoot18047.png</file>
+	<file>path14626.png</file>
+    </qresource>
+</RCC>
